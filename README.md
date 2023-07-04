@@ -6,7 +6,7 @@ C++ 버전은 C++17로 설정되어 있습니다.
 
 # Docker Hub
 
-[도커허브 링크]([Docker](https://hub.docker.com/repository/docker/dabinl1258/verilator-systemc/general))
+[도커허브 링크](https://hub.docker.com/repository/docker/dabinl1258/verilator-systemc/general)
 
 위 링크에서 pull 받기
 
@@ -19,8 +19,6 @@ docker push dabinl1258/verilator-systemc:tagname
 Verilator는 make를 이용해서 설치 되었습니다.
 
 Verilator V5.012 버전 [링크](https://github.com/verilator/verilator/releases/tag/v5.012)
-
-
 
 # SystemC
 
